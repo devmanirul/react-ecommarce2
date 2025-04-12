@@ -1,6 +1,7 @@
-# React + Vite
+# React-Ecommarce2
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here use HTML, TAILWINDCSS, REACT.JS 
 
 Currently, two official plugins are available:
 
