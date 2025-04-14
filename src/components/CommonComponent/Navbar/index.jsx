@@ -1,4 +1,8 @@
 const Navbar = () => {
-  return <div className="text-2xl text-red-600 font-bold">Navbar</div>;
+  return (
+    <div className="text-3xl font-bold">
+      X
+    </div>
+  );
 };
 export default Navbar;
